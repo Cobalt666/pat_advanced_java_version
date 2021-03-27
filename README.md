@@ -12,3 +12,9 @@
 | [A1046](/src/test1046.java)  | [Shortest Distance](https://pintia.cn/problem-sets/994805342720868352/problems/994805435700199424) | 一个测试点超时 |
 | [A1065](/src/test1065.java)  | [A+B and C (64bit)](https://pintia.cn/problem-sets/994805342720868352/problems/994805406352654336) |  |
 | [A1105](/src/test1105.java)  | [Spiral Matrix](https://pintia.cn/problem-sets/994805342720868352/problems/994805363117768704) | 最后一个测试点超时 |
+
+## 数学问题
+
+|  题解   | 题目描述  | 备注 |
+|  ----  | ----  | ---- |
+| [A1008](/src/test1008.java)  | [Elevator](https://pintia.cn/problem-sets/994805342720868352/problems/994805511923286016) |  |
