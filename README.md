@@ -18,3 +18,4 @@
 |  题解   | 题目描述  | 备注 |
 |  ----  | ----  | ---- |
 | [A1008](/src/test1008.java)  | [Elevator](https://pintia.cn/problem-sets/994805342720868352/problems/994805511923286016) |  |
+| [A1015](/src/test1015.java)  | [Reversible Primes](https://pintia.cn/problem-sets/994805342720868352/problems/994805495863296000) |  |
