@@ -20,3 +20,4 @@
 | [A1015](/src/test1015.java)  | [Reversible Primes](https://pintia.cn/problem-sets/994805342720868352/problems/994805495863296000) |  |
 | [A1019](/src/test1019.java)  | [General Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984) |  |
 | [A1023](/src/test1023.java)  | [Have Fun with Numbers](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992) |  |
+| [A1024](/src/test1024.java)  | [Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608) |  |
