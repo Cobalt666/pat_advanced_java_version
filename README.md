@@ -22,3 +22,4 @@
 | [A1023](/src/test1023.java)  | [Have Fun with Numbers](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992) |  |
 | [A1024](/src/test1024.java)  | [Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608) |  |
 | [A1027](/src/test1024.java)  | [Colors in Mars](https://pintia.cn/problem-sets/994805342720868352/problems/994805470349344768) |  |
+| [A1058](/src/test1058.java)  | [A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/problems/994805416519647232) |  |
