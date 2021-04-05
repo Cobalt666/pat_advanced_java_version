@@ -29,3 +29,4 @@
 |  题解   | 题目描述  | 备注 |
 |  ----  | ----  | ---- |
 | [A1022](/src/test1022.java)  | [Digital Library](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336) | 最后一个测试点超时 |
+| [A1039](/src/test1039.java)  | [Course List for Student](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416) | 第二个测试点错误，最后一个测试点超时 |
