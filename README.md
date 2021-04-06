@@ -31,3 +31,4 @@
 | [A1022](/src/test1022.java)  | [Digital Library](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336) | 最后一个测试点超时 |
 | [A1039](/src/test1039.java)  | [Course List for Student](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416) | 第二个测试点错误，最后一个测试点超时 |
 | [A1047](/src/test1047.java)  | [Student List for Course](https://pintia.cn/problem-sets/994805342720868352/problems/994805433955368960) | 最后一个内存超限 |
+| [A1054](/src/test1054.java)  | [The Dominant Color](https://pintia.cn/problem-sets/994805342720868352/problems/994805422639136768) | 两个测试点超时 |
