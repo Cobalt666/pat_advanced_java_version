@@ -33,3 +33,4 @@
 | [A1047](/src/test1047.java)  | [Student List for Course](https://pintia.cn/problem-sets/994805342720868352/problems/994805433955368960) | 最后一个内存超限 |
 | [A1054](/src/test1054.java)  | [The Dominant Color](https://pintia.cn/problem-sets/994805342720868352/problems/994805422639136768) | 两个测试点超时 |
 | [A1063](/src/test1063.java)  | [Set Similarity](https://pintia.cn/problem-sets/994805342720868352/problems/994805409175420928) | 两个测试点超时 |
+| [A1071](/src/test1071.java)  | [Speech Pattern](https://pintia.cn/problem-sets/994805342720868352/problems/994805398257647616) | 两个测试点超时 |
