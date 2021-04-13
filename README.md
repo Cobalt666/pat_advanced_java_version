@@ -40,3 +40,4 @@
 |  题解   | 题目描述  | 备注 |
 |  ----  | ----  | ---- |
 | [A1035](/src/test1035.java)  | [Password](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520) |  |
+| [A1061](/src/test1061.java)  | [Dating](https://pintia.cn/problem-sets/994805342720868352/problems/994805411985604608) |  |
