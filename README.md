@@ -34,3 +34,9 @@
 | [A1054](/src/test1054.java)  | [The Dominant Color](https://pintia.cn/problem-sets/994805342720868352/problems/994805422639136768) | 两个测试点超时 |
 | [A1063](/src/test1063.java)  | [Set Similarity](https://pintia.cn/problem-sets/994805342720868352/problems/994805409175420928) | 两个测试点超时 |
 | [A1071](/src/test1071.java)  | [Speech Pattern](https://pintia.cn/problem-sets/994805342720868352/problems/994805398257647616) | 两个测试点超时 |
+
+## 字符串
+
+|  题解   | 题目描述  | 备注 |
+|  ----  | ----  | ---- |
+| [A1035](/src/test1035.java)  | [Password](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520) |  |
