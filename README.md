@@ -47,3 +47,4 @@
 |  题解   | 题目描述  | 备注 |
 |  ----  | ----  | ---- |
 | [A1032](/src/test1032.java)  | [Sharing](https://pintia.cn/problem-sets/994805342720868352/problems/994805460652113920) | 最后一个测试点超时 |
+| [A1052](/src/test1052.java)  | [Linked List Sorting](https://pintia.cn/problem-sets/994805342720868352/problems/994805425780670464) | 一个测试点超时 |
