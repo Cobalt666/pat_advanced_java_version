@@ -54,3 +54,9 @@
 |  题解   | 题目描述  | 备注 |
 |  ----  | ----  | ---- |
 | [A1051](/src/test1051.java)  | [Pop Sequence](https://pintia.cn/problem-sets/994805342720868352/problems/994805427332562944) |  |
+
+## 队列
+
+|  题解   | 题目描述  | 备注 |
+|  ----  | ----  | ---- |
+| [A1014](/src/test1014.java)  | [Waiting in Line](https://pintia.cn/problem-sets/994805342720868352/problems/994805498207911936) |  |
