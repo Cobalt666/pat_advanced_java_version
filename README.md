@@ -61,3 +61,9 @@
 |  ----  | ----  | ---- |
 | [A1014](/src/test1014.java)  | [Waiting in Line](https://pintia.cn/problem-sets/994805342720868352/problems/994805498207911936) |  |
 | [A1056](/src/test1056.java)  | [Mice and Rice](https://pintia.cn/problem-sets/994805342720868352/problems/994805419468242944) |  |
+
+## 树
+
+|  题解   | 题目描述  | 备注 |
+|  ----  | ----  | ---- |
+| [A1004](/src/test1004.java)  | [Counting Leaves](https://pintia.cn/problem-sets/994805342720868352/problems/994805521431773184) |  |
