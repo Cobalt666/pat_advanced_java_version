@@ -67,3 +67,4 @@
 |  题解   | 题目描述  | 备注 |
 |  ----  | ----  | ---- |
 | [A1004](/src/test1004.java)  | [Counting Leaves](https://pintia.cn/problem-sets/994805342720868352/problems/994805521431773184) |  |
+| [A1020](/src/test1020.java)  | [Tree Traversals](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072) |  |
