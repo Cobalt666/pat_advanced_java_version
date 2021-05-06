@@ -68,3 +68,4 @@
 |  ----  | ----  | ---- |
 | [A1004](/src/test1004.java)  | [Counting Leaves](https://pintia.cn/problem-sets/994805342720868352/problems/994805521431773184) |  |
 | [A1020](/src/test1020.java)  | [Tree Traversals](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072) |  |
+| [A1053](/src/test1053.java)  | [Path of Equal Weight](https://pintia.cn/problem-sets/994805342720868352/problems/994805424153280512) |  |
