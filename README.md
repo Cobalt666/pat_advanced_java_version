@@ -70,3 +70,4 @@
 | [A1020](/src/test1020.java)  | [Tree Traversals](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072) |  |
 | [A1053](/src/test1053.java)  | [Path of Equal Weight](https://pintia.cn/problem-sets/994805342720868352/problems/994805424153280512) |  |
 | [A1086](/src/test1086.java)  | [Tree Traversals Again](https://pintia.cn/problem-sets/994805342720868352/problems/994805380754817024) |  |
+| [A1102](/src/test1102.java)  | [Invert a Binary Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805365537882112) |  |
