@@ -62,7 +62,7 @@
 | [A1014](/src/test1014.java)  | [Waiting in Line](https://pintia.cn/problem-sets/994805342720868352/problems/994805498207911936) |  |
 | [A1056](/src/test1056.java)  | [Mice and Rice](https://pintia.cn/problem-sets/994805342720868352/problems/994805419468242944) |  |
 
-## 树
+## 树遍历
 
 |  题解   | 题目描述  | 备注 |
 |  ----  | ----  | ---- |
@@ -71,3 +71,9 @@
 | [A1053](/src/test1053.java)  | [Path of Equal Weight](https://pintia.cn/problem-sets/994805342720868352/problems/994805424153280512) |  |
 | [A1086](/src/test1086.java)  | [Tree Traversals Again](https://pintia.cn/problem-sets/994805342720868352/problems/994805380754817024) |  |
 | [A1102](/src/test1102.java)  | [Invert a Binary Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805365537882112) |  |
+
+## 图遍历
+
+|  题解   | 题目描述  | 备注 |
+|  ----  | ----  | ---- |
+| [A1013](/src/test1013.java)  | [Battle Over Cities](https://pintia.cn/problem-sets/994805342720868352/problems/994805500414115840) |  |
