@@ -76,4 +76,5 @@
 
 |  题解   | 题目描述  | 备注 |
 |  ----  | ----  | ---- |
-| [A1013](/src/test1013.java)  | [Battle Over Cities](https://pintia.cn/problem-sets/994805342720868352/problems/994805500414115840) |  |
+| [A1013](/src/test1013.java)  | [Battle Over Cities](https://pintia.cn/problem-sets/994805342720868352/problems/994805500414115840) | 后两个测试点超时 |
+| [A1034](/src/test1034.java)  | [Head of a Gang](https://pintia.cn/problem-sets/994805342720868352/problems/994805456881434624) |  |
